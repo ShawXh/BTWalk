@@ -1,6 +1,9 @@
 # BTWalk
 This is the implementation of TKDE20 paper ''BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding'' [paper](https://doi.org/10.1109/TKDE.2020.3029061). All of the parameters and the corresponding descriptions in `btvec.cpp`, `btvec.py`, `vec4cross.py` can be found in Table 2 in the paper.
 
+## Requirements
+- gsl c++ library
+
 ## Single-network embedding (BTVec)
 To run network embedding for a single network (weighted and directed), you need a network file named `$name$-net.txt`, whose format is:
 ```
@@ -34,7 +37,7 @@ The embedding will be output at `./emb/${net1}$-${net2}$-emb-128`.
 
 Notes: the gamma used in the code is actually 1-gamma in the paper.
 
-# Reference
+## Reference
 If you use the code, please cite:
 ```
 @ARTICLE{9214904,  
