@@ -1,5 +1,5 @@
 # BTWalk
-This is the implementation of TKDE20 paper ''BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding'' [paper](https://doi.org/10.1109/TKDE.2020.3029061). All of the parameters and the corresponding descriptions in `btvec.cpp`, `btvec.py`, `vec4cross.py` can be found in Table 2 in the paper.
+This is the implementation of TKDE20 paper ''[BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding](https://doi.org/10.1109/TKDE.2020.3029061)'' (a copy is in this repo.). All of the parameters and the corresponding descriptions in `btvec.cpp`, `btvec.py`, `vec4cross.py` can be found in Table 2 in the paper.
 
 ## Requirements
 - gsl c++ library
