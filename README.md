@@ -40,14 +40,15 @@ Notes: the gamma used in the code is actually 1-gamma in the paper.
 ## Reference
 If you use the code, please cite:
 ```
-@ARTICLE{9214904,  
-author={H. {Xiong} and J. {Yan}},  
-journal={IEEE Transactions on Knowledge and Data Engineering},   
-title={BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding},   
-year={2020},  
-volume={},  
-number={},  
-pages={1-1},}
+@ARTICLE{btwalk,
+author={H. {Xiong} and J. {Yan}},
+journal={IEEE Transactions on Knowledge and Data Engineering}, 
+title={BTWalk: Branching Tree Random Walk for Multi-order Structured Network Embedding}, 
+year={2020},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TKDE.2020.3029061}}
 ```
 
 If you use the data of crossing networks, facebook-twitter and douban-weibo (for d2b please contact me), please cite:
