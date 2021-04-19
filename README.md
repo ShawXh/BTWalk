@@ -3,6 +3,7 @@ This is the implementation of TKDE20 paper ''[BTWalk: Branching Tree Random Walk
 
 ## Requirements
 - gsl c++ library
+To install gsl lib on your own machine, you can refer to this [link](https://blog.csdn.net/u012248802/article/details/80655902) (in Chinese).
 
 ## Single-network embedding (BTVec)
 To run network embedding for a single network (weighted and directed), you need a network file named `$name$-net.txt`, whose format is:
