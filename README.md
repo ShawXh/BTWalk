@@ -52,7 +52,7 @@ If you use the code, please cite:
   doi={10.1109/TKDE.2020.3029061}}
 ```
 
-If you use the data of crossing networks, facebook-twitter and douban-weibo (for d2b please contact me), please cite:
+If you use the data of crossing networks, facebook-twitter and douban-weibo, please cite:
 ```
 @inproceedings{Cao2016ASNets,
 author = {Cao, Xuezhi and Yu, Yong},
